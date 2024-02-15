@@ -1,0 +1,24 @@
+<suite name = "Test" parllel = "tests">
+	
+	<test name = "mytest">
+		<classes>
+			<class name = "PackageName.classname">
+				
+			</class>
+			
+		</classes>
+	</test>
+	
+	
+	<test name = "mytest1">
+		<classes>
+			<class name = "PackageName.classname">
+				
+			</class>
+			
+		</classes>
+	</test>
+	
+	
+	
+</suite>
